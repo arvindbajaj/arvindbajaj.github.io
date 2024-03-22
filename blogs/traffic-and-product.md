@@ -1,4 +1,4 @@
-#### What can Traffic Jams teach us about product making
+### What can Traffic Jams teach us about product making
 
 Traffic jams may seem like an unlikely source of lessons for product building, but they can offer valuable insights into the challenges and solutions faced in the product development process. Here are some lessons traffic jams can teach us about product building:
 
