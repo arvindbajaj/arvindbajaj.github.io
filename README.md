@@ -4,7 +4,7 @@ Seasoned Product and Engineering leader driving transformative product strategie
 
 ### Blog
 
-Nov 2023 [What can Traffic Jams teach us about product making](./blogs/traffic-and-product)
+Nov 2023 [What can Traffic Jams teach us about product making](./blogs/traffic-and-product.md)
 
 ### Ideas
 
