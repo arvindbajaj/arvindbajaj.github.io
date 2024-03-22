@@ -6,9 +6,9 @@ Traffic jams may seem like an unlikely source of lessons for product building, b
 
 2. Anticipate and Mitigate Bottlenecks: Traffic jams often result from bottlenecks, whether it's a merge point, a road construction site, or an accident. In product development, identify potential bottlenecks in your workflow or process and take proactive measures to mitigate them to maintain a smooth development pace.
 
-3.Real-time Data Is Key: Traffic authorities use real-time data to manage traffic flow. In product development, real-time data and analytics can help you make informed decisions, track progress, and respond quickly to changing conditions.
+3. Real-time Data Is Key: Traffic authorities use real-time data to manage traffic flow. In product development, real-time data and analytics can help you make informed decisions, track progress, and respond quickly to changing conditions.
 
-4.Balancing Supply and Demand: Traffic jams highlight the importance of balancing supply (road capacity) with demand (the number of vehicles). Similarly, in product development, align your product's features and capabilities with the actual needs and demands of your users.
+4. Balancing Supply and Demand: Traffic jams highlight the importance of balancing supply (road capacity) with demand (the number of vehicles). Similarly, in product development, align your product's features and capabilities with the actual needs and demands of your users.
 
 5. Alternate Routes Can Save Time: Drivers often seek alternate routes to avoid traffic. In product development, consider alternative approaches or technologies to solve problems or meet user needs more efficiently.
 
